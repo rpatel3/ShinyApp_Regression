@@ -9,4 +9,4 @@ Important statistic values included are:
 * adjusted R^2 
 
 The app can be viewed through the link below:
-https://kreimer314.shinyapps.io/RegressionVisualization/
+* https://kreimer314.shinyapps.io/RegressionVisualization/
